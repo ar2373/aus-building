@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Australia Building Construction</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <div class="container nav">
+    <h1>Australia Building Construction</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="hero">
+  <div class="container">
+    <h2>Building Dreams with Precision</h2>
+    <p>Residential and commercial construction services in Parramatta</p>
+    <a href="contact.html" class="btn">Get a Quote</a>
+  </div>
+</section>
+
+<section class="featured-services section">
+  <div class="container">
+    <h2>Our Featured Services</h2>
+    <div class="grid">
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1596495577886-d920f7b53aef" alt="Residential Construction">
+        <h3>Residential Construction</h3>
+        <p>Custom homes built to your specifications and style.</p>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1581091215364-98f68be12f49" alt="Renovations">
+        <h3>Renovations</h3>
+        <p>Modern renovations that transform your space.</p>
+      </div>
+      <div class="card">
+        <img src="https://images.unsplash.com/photo-1560185127-6c152a6b0b8a" alt="Commercial Projects">
+        <h3>Commercial Projects</h3>
+        <p>High-quality commercial builds for offices and businesses.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>© 2026 Australia Building Construction. All rights reserved.</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

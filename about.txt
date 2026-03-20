@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About Us - Australia Building Construction</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <div class="container nav">
+    <h1>Australia Building Construction</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container">
+    <h2>About Us</h2>
+    <img src="https://images.unsplash.com/photo-1503387762-592deb58ef4e" alt="Construction Team" style="width:100%; border-radius:8px; margin-bottom:20px;">
+    <p>Australia Building Construction has been serving Parramatta and surrounding areas with high-quality construction services. Our team focuses on safety, reliability, and exceeding client expectations.</p>
+    <p>From residential homes to large commercial projects, we pride ourselves on professionalism and attention to detail.</p>
+  </div>
+</section>
+
+<section class="section light">
+  <div class="container">
+    <h2>Our Values</h2>
+    <ul>
+      <li>Quality Workmanship</li>
+      <li>Client Satisfaction</li>
+      <li>Timely Delivery</li>
+      <li>Transparent Pricing</li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  <div class="container">
+    <p>© 2026 Australia Building Construction. All rights reserved.</p>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
